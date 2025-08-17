@@ -8,6 +8,7 @@ fi
 sudo apt update
 sudo apt install -y \
 	dunst \
+	feh \
 	ffmpeg \
 	flameshot \
 	fzf \
@@ -16,6 +17,7 @@ sudo apt install -y \
 	libnotify-bin \
 	mpv \
 	neovim \
+	polybar \
 	rofi \
 	screenkey \
 	tmux \
