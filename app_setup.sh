@@ -13,8 +13,10 @@ sudo apt install -y \
 	flameshot \
 	fzf \
 	git \
+	i3lock \
 	i3-wm \
 	libnotify-bin \
+	mate-polkit \
 	mpv \
 	openjdk-25-jdk \
 	polybar \
