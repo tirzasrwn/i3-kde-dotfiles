@@ -15,10 +15,12 @@ sudo apt install -y \
 	git \
 	i3lock \
 	i3-wm \
+	libdbus-1-dev \
 	libnotify-bin \
 	mate-polkit \
 	mpv \
 	openjdk-25-jdk \
+	pkg-config \
 	polybar \
 	rofi \
 	ripgrep \

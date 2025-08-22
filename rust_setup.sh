@@ -10,3 +10,4 @@ sudo apt install cmake g++ pkg-config libfreetype6-dev libfontconfig1-dev libxcb
 ~/.cargo/bin/cargo install alacritty
 ~/.cargo/bin/cargo install tree-sitter-cli
 ~/.cargo/bin/cargo install bluetui
+~/.cargo/bin/cargo install exa
