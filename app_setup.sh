@@ -19,6 +19,8 @@ sudo apt install -y \
 	libnotify-bin \
 	mate-polkit \
 	mpv \
+	netcut-openbsd \
+	nmap \
 	openjdk-25-jdk \
 	pkg-config \
 	polybar \
@@ -28,6 +30,7 @@ sudo apt install -y \
 	tmux \
 	wget \
 	xdotool \
+	zathura \
 	zip \
 	zsh
 
