@@ -7,6 +7,8 @@ fi
 
 sudo apt update
 sudo apt install -y \
+	arandr \
+	blueman \
 	dunst \
 	feh \
 	ffmpeg \
@@ -19,9 +21,11 @@ sudo apt install -y \
 	libnotify-bin \
 	mate-polkit \
 	mpv \
-	netcut-openbsd \
+	netcat-openbsd \
 	nmap \
-	openjdk-25-jdk \
+	openjdk-21-jdk \
+	pavucontrol \
+	picom \
 	pkg-config \
 	polybar \
 	rofi \
