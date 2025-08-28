@@ -8,10 +8,13 @@ fi
 sudo apt update
 sudo apt install -y \
 	arandr \
+	brightnessctl \
 	blueman \
+	cowsay \
 	dunst \
 	feh \
 	ffmpeg \
+	fortune \
 	flameshot \
 	fzf \
 	git \
